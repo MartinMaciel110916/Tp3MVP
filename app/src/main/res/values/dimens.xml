@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_dimens100">100dp</dimen>
+    <dimen name="txt_margin">20dp</dimen>
+    <dimen name="txt_large">200dp</dimen>
+    <dimen name="new_txt_size">20sp</dimen>
+</resources>
